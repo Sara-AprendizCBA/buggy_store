@@ -147,5 +147,3 @@ ids_a_eliminar = [
 for id_producto in ids_a_eliminar:
     del self.inventario[id_producto]
 ```
-
----
